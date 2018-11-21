@@ -1,0 +1,49 @@
+Łącznie 2258 zdjęć z 43 kategorii
+85% na zbiorze testowym (10%), na walidacyjnych średnio ok. 90%
+4000 kroków (Inception v3)
+Klasyfikacja dla produktów
+
+
+Piatnica Mleko wiejskie  wieze#20 37 
+Black Energy Gazowany napoj en#140 33 
+Diamant Cukier bialy 1 kg#24 37 
+Muszyna Skarb Zycia Naturalna#228 125 
+Zubrowka Biala Wodka czysta 50#756 29 
+Wielkopolski Olej rzepakowy 1#561 31 
+NIVEA Creme Krem 250 ml#46 49 
+Laciate Mleko UHT 3 2  1 l#7 41 
+Mlekovita Polskie Mleko spozyw#9 51 
+Majonez Kielecki 310 ml#250 41 
+Sierpc Ser krolewski 135 g#343 38 
+Morliny Berlinki Classic Parow#48 36 
+Cisowianka Naturalna woda mine#21 265 
+Naleczowianka 1 5 l dgaz P   b#67 39 
+Polski Cukier Cukier bialy 1 k#202 36 
+Manufaktura Piwna Browaru Jabl#489 33 
+Woda Zywiec Zdroj niegazowana#1 52 
+Kujawski Olej rzepakowy z pier#29 40 
+Serek wiejski naturalny 200g#20 55 
+Bakoma Jogurt naturalny gesty#5 34 
+Tyskie Gronie Piwo jasne 500 m#2 32 
+Grze ki Wafel przekladany krem#84 33 
+Wloclawek Ketchup pikantny 480#83 36 
+Dawtona Kukurydza slodka 400 g#12 31 
+Krupnik Wodka 500 ml#649 25 
+Pudliszki Ketchup lagodny 480#19 37 
+Muszynianka Naturalna woda min#18 139 
+Naleczowianka 1 5 l niegaz P L#67 76 
+Jogurt naturalny#46280 29 
+Wawel Gorzka Czekolada 100 g#3 47 
+Zywiol od Zywiec Zdroj SA Woda#1 44 
+Zywiec Zdroj Woda niegazowana#1 135 
+Inka Rozpuszczalna kawa zbozow#213 54 
+Kamis Musztarda sarepska 185 g#49 32 
+chusteczki  delikatne  150szt #129 33 
+Mlekovita Maslo Polskie ekstra#9 48 
+Piwo w butelce#72 42 
+Tymbark Pomara cza Sok 100  1#57 47 
+Winiary Majonez Dekoracyjny 40#100 36 
+Naleczowianka 0 5 l niegaz P L#67 38 
+Robico Kefir 1 5  400 g#13 32 
+LOMZA EXPORT BUT 0 5L BZ DHP 2#82 48 
+Naleczow Zdroj Naturalna woda#21 39 

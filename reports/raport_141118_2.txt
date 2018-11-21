@@ -1,0 +1,14 @@
+Mamy 58,639 zdjęć
+W tym 5977 produktów 614 firm.
+
+Próg | liczba produktów | Liczba firm | liczba zdjęć
+50 120 58 10873
+30 269 101 16389
+25 357 115 18385
+20 517 150 21277
+
+Model (Inception v3), 50,000 kroków.
+Produkty z co najmniej 25 zdjęciami
+Accuracy 87.4% na zbiorze testowym (rozpoznawanie produktów)
+Accuracy 92.1% (rozpoznawanie firmy)
+
